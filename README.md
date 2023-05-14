@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruchit Dobariya</h1>
 <h3 align="center">As a computer science student, I am constantly learning and exploring new areas of technology to expand my knowledge and skill set. I am driven by the endless possibilities of computer science and excited to see where my journey will take me.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifyu.com/image/Sn4hL">
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 - 🌱 I’m currently learning **React,Node.Js, GCP, Docker, Kubernetes**
 
